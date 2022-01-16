@@ -23,4 +23,4 @@ public class Number_and_addition_of_factors {
 
 
 }
-    //https://programmers.co.kr/learn/courses/30/lessons/77884
+    // https://programmers.co.kr/learn/courses/30/lessons/77884
