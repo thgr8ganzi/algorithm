@@ -21,6 +21,5 @@ public class Number_and_addition_of_factors {
         return answer;
     }
 
-
 }
     // https://programmers.co.kr/learn/courses/30/lessons/77884
